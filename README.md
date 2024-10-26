@@ -36,7 +36,7 @@
             <li>Connaissances sur les routeurs Cisco (modèles utilisés incluent Cisco 1941 et 2960).</li>
         </ul>
 
-        <div style="margin-top: 30px; padding: 15px; background-color: #e8f4ff; border-left: 4px solid #0056b3;">
-            <h2 style="color: #003366;">Auteur</h2>
+   <div style="margin-top: 30px; padding: 15px; background-color: #e8f4ff; border-left: 4px solid #0056b3;">
+    <h2 style="color: #003366;">Auteur</h2>
             <p><strong>Adrien VENTRE</strong> : BTS SIO SISR.</p>
         </div>
